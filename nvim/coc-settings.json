@@ -1,0 +1,27 @@
+{
+  "coc.preferences.extensionUpdateCheck": "daily",
+  "coc.preferences.formatOnType": true,
+  "coc.preferences.formatOnSaveFiletypes": ["*"],
+  "diagnostic.checkCurrentLine": true,
+  "diagnostic.virtualText": true,
+  "diagnostic.enableMessage": "jump",
+  "diagnostic.errorSign": "✖",
+  "diagnostic.warningSign": "⚠",
+  "diagnostic.infoSign": "•",
+  "diagnostic.hintSign": "•",
+  "diagnostic-languageserver.filetypes": {},
+  "diagnostic-languageserver.mergeConfig": true,
+  "diagnostic-languageserver.linters": {},
+  //"git.enableGutters": true,
+  //"git.addedSign.text": "┃",
+  //"git.changedSign.text": "┃",
+  //"git.removedSign.text": "▁",
+  //"git.topRemovedSign.text": "▔",
+  //"git.changeRemovedSign.text": "▔",
+  "prettier.requireConfig": false,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "typescript.suggestionActions.enabled": false,
+  "clangd.path": "~/.config/coc/extensions/coc-clangd-data/install/13.0.0/clangd_13.0.0/bin/clangd"
+}
